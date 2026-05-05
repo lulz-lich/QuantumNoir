@@ -139,6 +139,16 @@ Run tests:
 npm test
 ```
 
+## GitHub Pages
+
+The app is configured for GitHub Pages at:
+
+```text
+https://lulz-lich.github.io/QuantumNoir/
+```
+
+Deployment is handled by `.github/workflows/pages.yml` on every push to `main`.
+
 ## Design Direction
 
 Quantum Noir should feel like a strange scientific archive: dim rooms, glowing instruments, case files, detector noise, impossible witnesses, and beautiful probability ghosts. The interface favors investigation over explanation dumps.
